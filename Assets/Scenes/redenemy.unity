@@ -2428,7 +2428,7 @@ PrefabInstance:
     - target: {fileID: 114963311885979670, guid: 11aaea5348574644a9eb4f4504fcce3f,
         type: 3}
       propertyPath: speed
-      value: 3
+      value: 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 114963311885979670, guid: 11aaea5348574644a9eb4f4504fcce3f,
         type: 3}
@@ -4345,7 +4345,7 @@ MonoBehaviour:
   - {fileID: 94298179}
   walkingSpeed: 3.8
   isLooping: 1
-  chaseSpeed: 5.5
+  chaseSpeed: 5
   detectRadius: 5
   maxChaseTime: 5
   player: {fileID: 1502555890}
